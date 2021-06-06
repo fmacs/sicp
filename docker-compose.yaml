@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  lisp:
+    restart: always
+    image: calysto/calysto_scheme
+    container_name: "lisp"
+    volumes:
+      - ./notebooks:/notebooks
+    ports:
+      - "127.0.0.1:8888:8888"
