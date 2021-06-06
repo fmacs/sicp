@@ -1,4 +1,4 @@
-# 図書名
+# Structure and Interpretation of Computer Programs
 [図書リンク](https://www.seshop.com/product/detail/16888)
 
 [日本語訳](https://sicp.iijlab.net/fulltext/xcont.html)
